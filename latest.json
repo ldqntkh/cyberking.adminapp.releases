@@ -1,10 +1,10 @@
 {
-    "version": "0.1.1",
-    "notes": "Cyberking Admin App",
+    "version": "0.1.4",
+    "notes": "Add licence information",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbE1ZUUdoTnlteENqU3pQUEVJNmtQSSt4OTdWNi9qS1hGdGlWUDNMWEdQd0ErRWNzVEtFOW9yUmcyc3hwbmhYQjA0MkRZMkNyUTgyOHo3L0FsVmtUdUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NTcxOTI4CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMS4xX3g2NF9lbi1VUy5tc2kKSjVTTjJUMmFjZlJSamN5dXNOeEFUakZ3OGEzK3JMeG1XYnk5aGI2RWVPWFZzZjBLeExJdFladzVQcXFuanNINmJtVi9vaDRZcUhMdlNzcXBDa2RpREE9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.1.1/Cyberking_Admin_0.1.1_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEFSY09MUWJwb0JmNmNlbThSMGFhM0FTTTdzSmVSVnRMRHhSRTVoUW92Smg4NmlPQkpUTFF5bXo0RlZLR1A0NlVaaVVyNEJ6b3VvMjFhdW1vNCtMSkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2OTExOTE5CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMS40X3g2NF9lbi1VUy5tc2kKeUtVR05HbVhZVWRTUFMwalo3ejRuODl0bEVLZkkyendvdTFLcVh3OHlEeHU0VWZvckdCTytxQVEvL1ZpKzlhQVVTa2NjaVhoOXl5SEE3UEJmMnZDQmc9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.1.4/Cyberking_Admin_0.1.4_x64_en-US.msi"
         }
     }
 }
