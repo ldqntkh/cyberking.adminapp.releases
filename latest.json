@@ -1,10 +1,10 @@
 {
-    "version": "0.1.9",
+    "version": "0.2.0",
     "notes": "Fixed minor bugs and improved performance.",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEhDS3UycURxYWhxc0FGUFZYWUhJQktJUHNLdktjWDBsYTlkU05WSWtvMm92am1JazFWUFhZQUlxTVRCZ1dHaTFMY1JFemdNVkRkM0NYWk1RNnhFOEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5NDE1MTQ5CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMS45X3g2NF9lbi1VUy5tc2kKazI3aFdQWDNIRy9XR1VEYTJsQWE3QkNZbGRWa25NSUZvUHFpbEtvTkhJZUd5Qmg0UnM2K0p5TWRCL094bUJtK1Vnb1VtMGJFbDRFaTZMc1RoeUpCREE9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.1.9/Cyberking_Admin_0.1.9_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEJBRkxSb1ZKaGxjTlNoQWlZUkExZ1h3WGlqSnRMSDJpbHFaZDdBbzQ4cDdrNHp1YVUvczR3SXFjN2RHUXVyd2dkTkhNVEVvNlBjMDI4UGdQWWdxREE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMjc5Nzg3CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMi4wX3g2NF9lbi1VUy5tc2kKczlpT2Y2MHk2dCthRGNwU2hnVnV2bm5wMWYrNTlXMkxwN0NERWVhTm1ISjlCVkltOU4wdHJoL3M4bm15MFVmcUtJS0gxSzNKR0JNREFhYXlvYUxJQ0E9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.2.0/Cyberking_Admin_0.2.0_x64_en-US.msi"
         }
     }
 }
