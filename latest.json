@@ -1,10 +1,10 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "notes": "New feature combo",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbE02WjU4NFNwNDhBZnNub0hFU2VaV0oxanFxSGk2bS9RaElkMVppdDNlZkZGeUNZMmVQTW9ERUZTd001bi9aV2xQSzdUNUpVcENNcXVxQTIyU09hUGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzMzkzNjgyCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMi4yX3g2NF9lbi1VUy5tc2kKRFdzeW03OWg4TUNMR0ZqbFBkZmp2azIwZEtJUFFRZzlMWk1TeE5CMmUzb2o5aHhtWFFNYTgzcXRzUnhiYUc3SUYxUzMzUEVnZmJ1REZMTU5qbXVpQ1E9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.2.2/Cyberking_Admin_0.2.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEZkUjRxWmpHY1dEcWsxQXJ2Z3RFa0hzejB4L3JGSXFLdThtZUgvZFNiR09RRWdxQ05mTGdqVmhoNU14V1JheXRYd0VWNGVRRG9RNUZhQUh1ZzhNdlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNDc5NDM5CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMi4zX3g2NF9lbi1VUy5tc2kKY2RnVysxcVRONmpESzFpWXZxT1lET0J0dXU4TncwWnRidUsxOUwrR0ZSWjlzSHlWYTIrd0Y0Y0MzYTIyNk82bzlDdys1RFF4L3VNVWk3a2xQd0dYQWc9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.2.3/Cyberking_Admin_0.2.3_x64_en-US.msi"
         }
     }
 }
