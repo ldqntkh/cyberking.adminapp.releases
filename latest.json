@@ -1,10 +1,10 @@
 {
-    "version": "0.2.3",
-    "notes": "New feature combo",
+    "version": "0.2.4",
+    "notes": "Fix bug media modal",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEZkUjRxWmpHY1dEcWsxQXJ2Z3RFa0hzejB4L3JGSXFLdThtZUgvZFNiR09RRWdxQ05mTGdqVmhoNU14V1JheXRYd0VWNGVRRG9RNUZhQUh1ZzhNdlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNDc5NDM5CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMi4zX3g2NF9lbi1VUy5tc2kKY2RnVysxcVRONmpESzFpWXZxT1lET0J0dXU4TncwWnRidUsxOUwrR0ZSWjlzSHlWYTIrd0Y0Y0MzYTIyNk82bzlDdys1RFF4L3VNVWk3a2xQd0dYQWc9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.2.3/Cyberking_Admin_0.2.3_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbER2Kys4aVBJNmd0V20xZmt2Q2FsSWxqcVdKaHlLZEtXNVB6c0p4TzZQdjVoNm9sRTAzVytHREh6L0VlalVZczh4amxKRDdYL3dSYVE1UXY5cnNySmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNTY2ODU1CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMi40X3g2NF9lbi1VUy5tc2kKbk5abDVpMysvWTFNS2d3WkNUaFRZcGpqNk9acVpxeXp4MmVTRVQ3bVo5ZFRyVXVXMGM2NHluNmZUTnBkUTVEV1BBekNqTVhzeVh2V1ZYVjJaSDdJQWc9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.2.4/Cyberking_Admin_0.2.4_x64_en-US.msi"
         }
     }
 }
