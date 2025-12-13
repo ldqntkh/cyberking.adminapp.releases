@@ -1,10 +1,10 @@
 {
-    "version": "0.2.9",
-    "notes": "Update layout scroll",
+    "version": "0.3.0",
+    "notes": "Update setting Qrcode",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEJyNGJ6ZGU3NDkvbGoyNnFqd2hIeXVhNjRqOGVadlFBNloyRGprVWx4ZXNFZVg2WURFeEFETmtpWUJjeXRoWnpURm5rdUhtY2hKY3dQSE1xUTFQTXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDY4Mzk2CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMi45X3g2NF9lbi1VUy5tc2kKMXFFZ2N3VWU2bE5mQW1wUHBYcXI0eURJWGEzMU9NTDhRWFdZSkp2dUlaSkIyM0NsdU4vMm9ZQStiY2pDdldBOEJ1RjlRdW5LRk5Rb2VLa1pRbmtURGc9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.2.9/Cyberking_Admin_0.2.9_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEtxa1NTU3cxaFljUGZ1YkNJcTFPWlF3eFExOWl4TVF6TkNaWS9NNzFBUDE0UXo3T282K00vQ0hxQVlrdytLNzhBbldEL0tGYTQybW00Y3RwTnVuNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjQ3NDg0CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4wX3g2NF9lbi1VUy5tc2kKNEhGOTU5SkxvWkNwSWNYUEM4aWprK29jRmljNmZjNkNYVmZqOExaR25RMndYSkxGRm9ueHBCNHRGc1B3dTR3MXhWWkN4MUFOOXovRWROSHZxYVVrQ1E9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.0/Cyberking_Admin_0.3.0_x64_en-US.msi"
         }
     }
 }
