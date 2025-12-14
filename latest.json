@@ -3,7 +3,7 @@
     "notes": "Update setting Qrcode",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEtxa1NTU3cxaFljUGZ1YkNJcTFPWlF3eFExOWl4TVF6TkNaWS9NNzFBUDE0UXo3T282K00vQ0hxQVlrdytLNzhBbldEL0tGYTQybW00Y3RwTnVuNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjQ3NDg0CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4wX3g2NF9lbi1VUy5tc2kKNEhGOTU5SkxvWkNwSWNYUEM4aWprK29jRmljNmZjNkNYVmZqOExaR25RMndYSkxGRm9ueHBCNHRGc1B3dTR3MXhWWkN4MUFOOXovRWROSHZxYVVrQ1E9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEdudXBtN2FCRmZRdU9JdTZNRXJET0FPRDgvSG81QU1BSW0wVzJpeVpjVkRsZ3RMcGxLM1B0U2ZlQWlyNXQ3OGVWYmh5NThvRjVsZ01aWHdkc2R4aEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzI0MTM0CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4wX3g2NF9lbi1VUy5tc2kKN3lkd1NPUytvYXBSTTg4N0gxWXY1VkVHTnlGU2RxTUVhRCsybi9HcUk3aUFjTnpLVXBYSmVoeDNPeHR5VkNrTkxVU2VZQXJneW91cjlPTUFvd0hHQmc9PQo=",
             "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.0/Cyberking_Admin_0.3.0_x64_en-US.msi"
         }
     }
