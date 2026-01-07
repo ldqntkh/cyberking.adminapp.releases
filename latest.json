@@ -3,7 +3,7 @@
     "notes": "Update display payment name",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbFB4NzdZb0M0dXhQT2FhMFlWaUd4YVgvdElkN0x5dVhhc0ZyMFRPQWh4ekhQQlB1b1lTNFU5YVl0OUhvNW5jRTRyZUY5RnBVZThZNkYzYUU0Q2d4OGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjI1OTEwCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4yX3g2NF9lbi1VUy5tc2kKTTBPMk9zS1B1WTlranp2cGR6aTZQOTQ1RzdxN1RUbmViVjBYQWtkVTRzamJJTjc4dXZKYzg0QjMxUm53a1EyRDlnTHNGUXJneE1iZWtTU1U1dVpRQUE9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEdudXBtN2FCRmZRdU9JdTZNRXJET0FPRDgvSG81QU1BSW0wVzJpeVpjVkRsZ3RMcGxLM1B0U2ZlQWlyNXQ3OGVWYmh5NThvRjVsZ01aWHdkc2R4aEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzI0MTM0CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4wX3g2NF9lbi1VUy5tc2kKN3lkd1NPUytvYXBSTTg4N0gxWXY1VkVHTnlGU2RxTUVhRCsybi9HcUk3aUFjTnpLVXBYSmVoeDNPeHR5VkNrTkxVU2VZQXJneW91cjlPTUFvd0hHQmc9PQo=",
             "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.2/Cyberking_Admin_0.3.2_x64_en-US.msi"
         }
     }
