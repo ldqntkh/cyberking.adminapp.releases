@@ -1,10 +1,10 @@
 {
-    "version": "0.3.2",
-    "notes": "Update display payment name",
+    "version": "0.3.3",
+    "notes": "Silent printer",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEdhc2tpaTM3Z0pSaUt4RG9od0dzclZjdGZjTUp5ZTdPREl1TWFyak9HdS9xZ1FtUlBIdnJkc2QvR0pSQzFyZ2ZqZzUydFcrOThKUU13dVFkY2h5K2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDA1NDgzCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4yX3g2NF9lbi1VUy5tc2kKY3VYRkIyTnhMS3JyTkM1SlN4Tzh2MGlzbXJOUEtGbjlDVHQ2NEpzN3JHdVRYU29WQ09PZkJiMTdvbGFFejkzUjFrdXRMRXVPNS9wZFY2SUpnUHduQVE9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.2/Cyberking_Admin_0.3.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEM2ZGFTUGVFOEkrMVdLMy93Vmh1NUMrZUdORHF4elIwcTZGNG9lNFdFdXVpUkNsblROQUJNRDE2Y1RmVG1rdGhCaDZFbTJGd2tyTFZmVnhxVWNHd0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDA4MzQxCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4zX3g2NF9lbi1VUy5tc2kKQk9NcjZ3U2FLb2hReVJ6d3c5NFZGbEV5RUxWWkplTDZ3dU1FQlFrV0VFMTFsZnBGN2ZiVU5KNFFxaytlclIzRm1PR2ZQamNQZHlDVXE1VVB4L0Z5Qnc9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.3/Cyberking_Admin_0.3.3_x64_en-US.msi"
         }
     }
 }
