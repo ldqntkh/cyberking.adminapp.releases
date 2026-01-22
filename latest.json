@@ -1,10 +1,10 @@
 {
-    "version": "0.3.3",
-    "notes": "Silent printer",
+    "version": "0.3.4",
+    "notes": "Update UI List order",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEM2ZGFTUGVFOEkrMVdLMy93Vmh1NUMrZUdORHF4elIwcTZGNG9lNFdFdXVpUkNsblROQUJNRDE2Y1RmVG1rdGhCaDZFbTJGd2tyTFZmVnhxVWNHd0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDA4MzQxCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy4zX3g2NF9lbi1VUy5tc2kKQk9NcjZ3U2FLb2hReVJ6d3c5NFZGbEV5RUxWWkplTDZ3dU1FQlFrV0VFMTFsZnBGN2ZiVU5KNFFxaytlclIzRm1PR2ZQamNQZHlDVXE1VVB4L0Z5Qnc9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.3/Cyberking_Admin_0.3.3_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbE02ck0wbUF0cWdNR1hscEtJYWVHSmNzRDZKK09Fc0p4a3JqUG5HUThDMGMwellMWGZRRk52eHlJeGdEclJkOUVvUmRBd09nK1hMSW1rSnJQSWx0ZkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MDk5MTA3CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy40X3g2NF9lbi1VUy5tc2kKVXo5cGJwcG9kd012WUFReGFMNEt0YysxTVozVGlOejFjNGI2bnhGUVZ0NW52aTNlK21zMG44VzdweTFWS2lYcTNoVWp4TEhxTDhJbThiazNSZE1jQXc9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.4/Cyberking_Admin_0.3.4_x64_en-US.msi"
         }
     }
 }
