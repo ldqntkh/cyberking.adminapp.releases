@@ -3,7 +3,7 @@
     "notes": "Update UI List order",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEN5NER6eVFIem5LMWpweTFOVC9ZbTVIR3NMYXdyMlRKdFFsQU9ZOElOYmROYjd6d0o2YWV2Qi9xa2NtWnh0SzAwai9WTkFWZDVxb216ZVhGY2NOZ0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTgxMTUzCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy40X3g2NF9lbi1VUy5tc2kKYWRsdzN1cnYzTlQ1ZTJxMzdQbEN0OVRCNUFoZlBBQ1NaWDJBU1lTdk9tTlQvb3ZwY3dDck5jVW1CNnJqWHR2cDJ0MjVCamZFbUtxNTdsandtK2lpQ2c9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEhTTm9MYU9GTGhnZEk4Y0hPNXhJbG96UTlyeFc3dVZzZDlnRE9XcHdoM1RwMEVqT1dkbFh1bmYvUFUraDBMYnBGUVdnTnI4Y0d2b0VDQ3MvVFpxZFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MjY1NDAzCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy40X3g2NF9lbi1VUy5tc2kKdW9EelJ4eXNCSVBoQkVFUFBkeTFPMlRRb21Bc0lUM3lPenV4RVlvT3ZOZTR1aGgybkRMZHI2MWJhVjFoNUZNKzRzUGxoVnVkZFI1Z2YrYmVydXJlQkE9PQo=",
             "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.4/Cyberking_Admin_0.3.4_x64_en-US.msi"
         }
     }
