@@ -1,10 +1,10 @@
 {
-    "version": "0.3.4",
-    "notes": "Update UI List order",
+    "version": "0.3.5",
+    "notes": "Fix Shop cart order",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEhTTm9MYU9GTGhnZEk4Y0hPNXhJbG96UTlyeFc3dVZzZDlnRE9XcHdoM1RwMEVqT1dkbFh1bmYvUFUraDBMYnBGUVdnTnI4Y0d2b0VDQ3MvVFpxZFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MjY1NDAzCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy40X3g2NF9lbi1VUy5tc2kKdW9EelJ4eXNCSVBoQkVFUFBkeTFPMlRRb21Bc0lUM3lPenV4RVlvT3ZOZTR1aGgybkRMZHI2MWJhVjFoNUZNKzRzUGxoVnVkZFI1Z2YrYmVydXJlQkE9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.4/Cyberking_Admin_0.3.4_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEJsV1ZSOGwrUnpJVTdNdEc2QXV5dDNtajRnR1VlTStGZFRWR3J3YVdSb2ozcjNJYkFhYmorOHVUOXZnbzZsZHNWeVBZakJuVWY3WVdVdjJiUlVPNUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNTE1NDY3CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy41X3g2NF9lbi1VUy5tc2kKNUtHTjlIY3IvTGhra2NtamRpMzVad04xN01ST045U0c3TGlhdFlJZU9sNE9VanMwLzdGYlNQSEFYOEZ0amNJZzhaNjVXNE91K2RFL3A0UXFpVVZiQ0E9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.5/Cyberking_Admin_0.3.5_x64_en-US.msi"
         }
     }
 }
