@@ -1,10 +1,10 @@
 {
-    "version": "0.3.7",
-    "notes": "Fix UI chat",
+    "version": "0.3.8",
+    "notes": "Fix Order handle by admin",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbEJ6N2RPaldlZzI0L3R5aUNUcmR6MEdXNHpiMmNuejZwSUpzK0lRdUJEMm55TkgxenBsV3pselpLSWlsU1pLRUdjc3RJUEVIc2JTQWk1UWVQamtZeEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTcyNTIxCWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy43X3g2NF9lbi1VUy5tc2kKNlNXWHIvdzBKRXljaHBUSVRPNXpXaW4wUVB6TCtSK0szUTJ0SVZOTEY2REFqSnpUZEQyUGE2T0pMelB3ZDRnbllIeUV2ZUlNZmlyT252a2IwWHJoQWc9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.7/Cyberking_Admin_0.3.7_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzlBUmNPaUNQbERqV2dFTk9OV3BkcWx6U1ZoVDh3bFdJUFowZTVjLytJZnlMT3BaTXBHZDdLYlpZdjN1SC9NcXVVTEhzRCt5Z1psb28rK1MyaC9TTWV0WGJQa3hPMlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDI3MzU0CWZpbGU6Q3liZXJraW5nIEFkbWluXzAuMy44X3g2NF9lbi1VUy5tc2kKYUE2dk13TmhicFhLN005WDJSTXUwMHJwS0cweWU3eWE3Wlp5cm53a3M2RFBPWEpyRjF1bWRvRGRSc1lMV09XMGoyRUxiN21DbURvZmZkaXRFTWJRRGc9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.adminapp.releases/releases/download/v0.3.8/Cyberking_Admin_0.3.8_x64_en-US.msi"
         }
     }
 }
